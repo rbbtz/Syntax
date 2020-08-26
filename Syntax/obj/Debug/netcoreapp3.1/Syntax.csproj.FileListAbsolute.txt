@@ -1,0 +1,4 @@
+/Users/Cerebro/repos/Syntax/Syntax/obj/Debug/netcoreapp3.1/Syntax.csprojAssemblyReference.cache
+/Users/Cerebro/repos/Syntax/Syntax/obj/Debug/netcoreapp3.1/Syntax.AssemblyInfoInputs.cache
+/Users/Cerebro/repos/Syntax/Syntax/obj/Debug/netcoreapp3.1/Syntax.AssemblyInfo.cs
+/Users/Cerebro/repos/Syntax/Syntax/obj/Debug/netcoreapp3.1/Syntax.csproj.CoreCompileInputs.cache
